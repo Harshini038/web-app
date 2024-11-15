@@ -1,0 +1,6 @@
+steps:
+1. start apache and sql in xampp
+2. note the port number of each
+3. create a folder where u need to save files
+4. create db.php, check connection 
+5. proceed with other files,open it with localhost/folder_name/file_name
